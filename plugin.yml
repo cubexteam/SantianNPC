@@ -1,0 +1,12 @@
+name: SantianNPC
+main: SantianNPC\Main
+version: 1.3.0
+api: [3.0.0-ALPHA7, 3.0.0, 3.0.0-ALPHA10]
+author: SantianDev
+commands:
+  npc:
+    description: NPC Management
+    permission: santiannpc.use
+permissions:
+  santiannpc.use:
+    default: op
